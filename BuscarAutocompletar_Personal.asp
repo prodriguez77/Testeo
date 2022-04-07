@@ -1,18 +1,5 @@
-<%@ LANGUAGE="VBSCRIPT" codepage = 65001 %>
-<!--#include file="../../../globales.asp"-->
-<!--#include file="../../../PermisosUsuarios.asp"-->
-
- <%    
-
-
-
-'Response.ContentType="text/html; charset=iso-8859-1"
-
-
-
-Dim Ficha
-Dim strArr
-Dim rsElementTem
+ESTOYT MODIFICANDO TODOS PARA QUE HAYA CONFLICOT
+LOS AMO
 Dim Escritura	
     ' Instancia los objetos de servidor
 	'
