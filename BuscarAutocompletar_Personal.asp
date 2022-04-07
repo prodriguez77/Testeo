@@ -9,7 +9,7 @@
 'Response.ContentType="text/html; charset=iso-8859-1"
 
 
-
+Dim FIchA_con_CONFLICTO
 Dim FICHA_DAMI_CONFLICTO
 Dim ESCONFLICTIVO
 Dim strArr
