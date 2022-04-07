@@ -10,7 +10,8 @@
 
 
 
-Dim Ficha
+Dim FICHA_DAMI_CONFLICTO
+Dim ESCONFLICTIVO
 Dim strArr
 Dim rsElementTem
 Dim Escritura	
